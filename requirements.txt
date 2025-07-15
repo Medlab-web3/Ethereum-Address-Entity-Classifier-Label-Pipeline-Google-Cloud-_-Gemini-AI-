@@ -1,0 +1,9 @@
+google-cloud-bigquery
+google-cloud-storage
+requests
+pandas
+google-auth
+google-generativeai
+db-dtypes
+python-dotenv
+beautifulsoup4
